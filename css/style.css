@@ -51,6 +51,7 @@ footer{
 #definicion {
     height: 295px;
     overflow: hidden;
+    text-align: justify;
 }
 
 #referencia {
